@@ -1,0 +1,18 @@
+
+Apuntes sobre el curso de Terminal en Platzi.
+
+¿Qué es una terminal?
+ Es una intefaz gráfica que simula una linea de comandos, cuando hablamos de esto nos referimos a la Shell.
+
+Shell, es un programa que toma comandos y los pasa al sistema operativo para poder realziar alguna acción.
+
+Un Comando, es un programa que se puede ejecutar desde le terminal, puede recibir parámetros y opciones.
+
+Estos son algunos comandos probados y aprendidos en clase:
+
+ls- sirve para mostrar un listado de documentos en donde nos ubiquemos en la termina.
+
+cd- sirve para poder cambiar de ubicación dentro de la terminal, ya sea carpetas    o directorios.
+
+pwd- sirve para obtener rutas absolutas, en este caso en nuestra ubicación actual dentro de la terminal.
+
