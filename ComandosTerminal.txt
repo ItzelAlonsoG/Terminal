@@ -41,13 +41,13 @@ ls Operations: - Command lists files and directories within the file system.
 Operatios with directories:
 
 
-	cd - Change directory is used to change the current directory. 
+	cd dir1 - Change directory is used to change the current directory. 
 
 	pwd - Is used to know the curren location in the terminal.
 
-	tree - Commmand used to show the files and directories structure like a tree diagram.
+	tree /root - Commmand used to show the files and directories structure like a tree diagram.
 
-	mkdir - Used to create directories.
+	mkdir dir1 - Used to create directories.
 
 	touch - Used to create files.
 
@@ -62,12 +62,30 @@ Operatios with directories:
 	rm -i -Used to delete files or directories with interaction.
 
 
+
 EXPLORE FILE CONTENT**************************************************************************************
 
-head - Command used to show the first lines of a file.
-Tail - Used to show the last lines of a file.
-less -
+	head - Command used to show the first lines of a file.
 
+	Tail - Used to show the last lines of a file.
+
+	less - Used to show the content of a file.
+
+WILD CARDS************************************************************************************************
+
+There are a serie of special characters that allows us to release searches more advanced to detect paterns.
+
+ Some of them are:
+
+	* - Used to indicate that matches with any character.
+
+	? - Used to indicate that matches with a individual character.
+
+	[characters] - Indicate that it matches with any character member in the group.
+	
+	[!characters] - Indicate that it matches with any character that doesn't is a group member.
+
+	[[:class ]] - Matches with ever character in the class.
 
 
 REDIRECTION **********************************************************************************************
@@ -89,15 +107,20 @@ If we use ">>" it will not going to overwrite the information on the contrary, i
 
 PIPE OPERATOR *********************************************************************************************
 
-Allows that the standar output become in the standar input.
+	Allows that the standar output become in the standar input.
 
-echo - Used to generate a standar output in the terminal.
+	echo - Used to generate a standar output in the terminal.
 
-cat - command used to concatenar.
+	cat - command used to concatenate.
  
-Example:
+	Example:
 
- ls -lh | less  ---- this w
+		 ls -lh | less  ---- this will concatenate this operation, it means that when te ls -lh command ends it will show with less that information.
+
+
+CONTROL OPERATORS ******************************************************************************************
+
+ 
 
  
 
