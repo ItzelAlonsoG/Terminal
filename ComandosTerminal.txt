@@ -120,6 +120,14 @@ PIPE OPERATOR ******************************************************************
 
 CONTROL OPERATORS ******************************************************************************************
 
+ command < file 	Redirects the input of a commmand to a file
+ command > file 	Redirects the output of a command to a file( be careful to overwrite de 			 info)
+ command >> file 	Concat the output of a command to a file. It it dosen't exists it will be 			  created
+ command1 | command2	Redirects de output of command1 to the input of command2
+ command1 ; commando2	Execute in a consecutive way
+ command2 && command1 	Excecutes command1 if and only if the command2 It was excecuted succesfuly
+ 
+ 
  
 
  
