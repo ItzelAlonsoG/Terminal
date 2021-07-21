@@ -35,7 +35,23 @@ This is a a repository that contains information related about commands that our
 - Control operators
 
 # Examples
+There are some command examples in wsl.
 
+**ls- command**
+- Then you can use a command line, for example **ls**  Command lists files and directories within the file system.
+<div>
+ <img src = "https://github.com/ItzelAlonsoG/Terminal/blob/main/lsCommand.PNG" width="100%">
+</div>
+
+**cd and pwd command**
+- **cd:**  Change directory is used to change the current directory. 
+- **pwd:** Is used to know the curren location in the terminal.
+
+<div>
+ <img src = "https://github.com/ItzelAlonsoG/Terminal/blob/main/cd_pwd_command.PNG" width="100%">
+</div>
+
+# How to run
 For Windows you need to install **Ubuntu** from **Microsoft Store** because for this coruse you need to use WSL that is for Linux.
 
 <div>
@@ -48,13 +64,9 @@ Then Open your Terminal Command and execute the command line **wsl -d Ubuntu** w
  <img src = "https://github.com/ItzelAlonsoG/Terminal/blob/main/UbuntuRun.PNG" width="100%">
 </div>
 
-Then you can use a command line, for example **ls**  Command lists files and directories within the file system.
-<div>
- <img src = "https://github.com/ItzelAlonsoG/Terminal/blob/main/lsCommand.PNG" width="100%">
-</div>
-
-
 # Information
 
 
 [Platzi Coruse](https://platzi.com/clases/terminal/)
+
+for more commands you can read the [ComandosTerminal.txt](https://github.com/ItzelAlonsoG/Terminal/blob/main/ComandosTerminal.txt) file.
