@@ -58,7 +58,7 @@ For Windows you need to install **Ubuntu** from **Microsoft Store** because for 
  <img src = "https://github.com/ItzelAlonsoG/Terminal/blob/main/UbuntuInstall.PNG" width="100%">
 </div>
 
-Then Open your Terminal Command and execute the command line **wsl -d Ubuntu** we are indicating that we are going to excecute that program in the terminal.
+Then Open your Terminal Command and execute the command line **wsl -d Ubuntu** we are indicating that we are going to execute that program in the terminal.
 
 <div>
  <img src = "https://github.com/ItzelAlonsoG/Terminal/blob/main/UbuntuRun.PNG" width="100%">
