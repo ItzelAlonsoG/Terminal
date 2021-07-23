@@ -16,7 +16,7 @@ This is a a repository that contains information related about commands that our
 
 **Shell**
 
-- It's a program that can recieve commands and pass the to the operative sistem to can make some accion.
+- It's a program that can recieve commands and pass them to the operative system to do an accion.
 
 **Command**
 
